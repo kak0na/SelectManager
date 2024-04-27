@@ -100,11 +100,11 @@ Contained methods：
 
 SelectionMode：
 
-![image-20240427132637](【UE】SelectManagerQuickStart\image-20240427132637.png)
+![image-20240427132637](【UE】SelectManagerQuickStart/image-20240427132637.png)
 
 Child：
 
-![image-20240427133044](【UE】SelectManagerQuickStart\image-20240427133044.png)
+![image-20240427133044](【UE】SelectManagerQuickStart/image-20240427133044.png)
 
 Select：
 
@@ -112,4 +112,4 @@ Select：
 
 EventDispatchers
 
-![image-20240427204933817](【UE】SelectManagerQuickStart\image-20240427204933817.png) 
+![image-20240427204933817](【UE】SelectManagerQuickStart/image-20240427204933817.png) 
