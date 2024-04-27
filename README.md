@@ -96,19 +96,19 @@ Press 5 again：
 
 
 
-包含的方法：
+Contained methods：
 
 SelectionMode：
 
-![PixPin_2024-04-27_13-26-37](【UE】SelectManagerQuickStart\image-20240427132637.png)
+![image-20240427132637](【UE】SelectManagerQuickStart\image-20240427132637.png)
 
 Child：
 
-![PixPin_2024-04-27_13-30-44](【UE】SelectManagerQuickStart\image-20240427133044.png)
+![image-20240427133044](【UE】SelectManagerQuickStart\image-20240427133044.png)
 
 Select：
 
-![PixPin_2024-04-27_13-36-59](【UE】SelectManagerQuickStart/image-20240427133659.png)
+![image-20240427133659](【UE】SelectManagerQuickStart/image-20240427133659.png)
 
 EventDispatchers
 
