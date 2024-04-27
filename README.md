@@ -100,15 +100,15 @@ Press 5 again：
 
 SelectionMode：
 
-![PixPin_2024-04-27_13-26-37](【UE】SelectManagerQuickStart\PixPin_2024-04-27_13-26-37.png)
+![PixPin_2024-04-27_13-26-37](【UE】SelectManagerQuickStart\image-20240427132637.png)
 
 Child：
 
-![PixPin_2024-04-27_13-30-44](【UE】SelectManagerQuickStart\PixPin_2024-04-27_13-30-44.png)
+![PixPin_2024-04-27_13-30-44](【UE】SelectManagerQuickStart\image-20240427133044.png)
 
 Select：
 
-![PixPin_2024-04-27_13-36-59](【UE】SelectManagerQuickStart/PixPin_2024-04-27_13-36-59.png)
+![PixPin_2024-04-27_13-36-59](【UE】SelectManagerQuickStart/image-20240427133659.png)
 
 EventDispatchers
 
