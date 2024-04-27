@@ -108,7 +108,7 @@ Child：
 
 Select：
 
-![PixPin_2024-04-27_13-36-59](C:/Users/EasyV-Nike/Documents/GitHub/SelectManager/【UE】SelectManagerQuickStart/PixPin_2024-04-27_13-36-59.png)
+![PixPin_2024-04-27_13-36-59](【UE】SelectManagerQuickStart/PixPin_2024-04-27_13-36-59.png)
 
 EventDispatchers
 
